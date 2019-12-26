@@ -1,0 +1,9 @@
+﻿  Uic'ing caculator.ui...
+  Rcc'ing caculator.qrc...
+  Moc'ing caculator.h...
+  caculator.cpp
+  main.cpp
+  model.cpp
+  qrc_caculator.cpp
+  moc_caculator.cpp
+  caculator.vcxproj -> E:\Qt\caculator\x64\Release\caculator.exe

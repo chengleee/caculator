@@ -1,0 +1,3 @@
+caculator.h|"E:\Qt\caculator\caculator\caculator.h" -o ".\GeneratedFiles\Release\moc_caculator.cpp" "-I.\GeneratedFiles" "-I." "-ID:\Qt\Qt5.11.1\5.11.1\msvc2017_64\include" "-I.\GeneratedFiles\Release" "-ID:\Qt\Qt5.11.1\5.11.1\msvc2017_64\include\QtCore" "-ID:\Qt\Qt5.11.1\5.11.1\msvc2017_64\include\QtGui" "-ID:\Qt\Qt5.11.1\5.11.1\msvc2017_64\include\QtANGLE" "-ID:\Qt\Qt5.11.1\5.11.1\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_NO_DEBUG -DNDEBUG -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+caculator.qrc|"E:\Qt\caculator\caculator\caculator.qrc" -o ".\GeneratedFiles\qrc_caculator.cpp" --name caculator
+caculator.ui|"E:\Qt\caculator\caculator\caculator.ui" -o ".\GeneratedFiles\ui_caculator.h"

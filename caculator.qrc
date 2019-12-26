@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/caculator"/>
+    <qresource prefix="/new/prefix1">
+        <file>icon.jpg</file>
+    </qresource>
+</RCC>
